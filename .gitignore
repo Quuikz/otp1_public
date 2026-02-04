@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+workspace.xml
+tasks.xml
+deployment.xml
+usage.statistics.xml
+
+# VS Code
+.vscode/
+
+# Java / Build artifacts
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+replay_pid*
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
+.settings/
+dependency-reduced-pom.xml
+release.properties
+
+# Gradle
+.gradle/
+gradle-app.setting
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IDE / Tooling
+.classpath
+.project
+.settings/
+
+# OS backups and editors
+*~
+*.swp
+*.swo
+Thumbs.db
